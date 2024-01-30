@@ -1,5 +1,10 @@
 # Real-Time Fire Detection Flask App Using YOLOv8
 
+
+![image](https://github.com/sharathnarayan12/Fire_Vision_Bot/assets/93177242/a40d9383-1af2-4917-b8ee-89f4f3047f2e)
+
+
+
 ### Prerequisites
 
 Make sure you have Python and pip installed. Additionally, you may need to install virtualenv:
